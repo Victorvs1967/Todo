@@ -11,6 +11,7 @@
 		D3756FD4275A5121006AF3E4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3756FD3275A5121006AF3E4 /* ContentView.swift */; };
 		D3756FD6275A5130006AF3E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3756FD5275A5130006AF3E4 /* Assets.xcassets */; };
 		D3756FD9275A5130006AF3E4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3756FD8275A5130006AF3E4 /* Preview Assets.xcassets */; };
+		D3756FE2275A516B006AF3E4 /* Todo.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3756FE1275A516B006AF3E4 /* Todo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		D3756FD5275A5130006AF3E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D3756FD8275A5130006AF3E4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D3756FDA275A5130006AF3E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3756FE1275A516B006AF3E4 /* Todo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Todo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				D3756FD5275A5130006AF3E4 /* Assets.xcassets */,
 				D3756FDA275A5130006AF3E4 /* Info.plist */,
 				D3756FD7275A5130006AF3E4 /* Preview Content */,
+				D3756FE1275A516B006AF3E4 /* Todo.swift */,
 			);
 			path = Todo;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				D3756FD4275A5121006AF3E4 /* ContentView.swift in Sources */,
 				D3756FD2275A5121006AF3E4 /* TodoApp.swift in Sources */,
+				D3756FE2275A516B006AF3E4 /* Todo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
